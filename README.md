@@ -229,30 +229,15 @@ public class TestingFramework {
 
 <div align="center">
 
-| **Project** | **Technology** | **Impact** |
-|:---:|:---:|:---:|
-| **Web Test Automation** | Selenium + Java | Automated 80% of test cases |
-| **Mobile App Testing** | Android Studio + Kotlin | Reduced testing time by 60% |
-| **API Testing Suite** | Postman + Newman | 100% API coverage achieved |
-| **CI/CD Pipeline** | Jenkins + Maven | Faster deployment cycles |
+✅ **Web Test Automation** - Automated 80% of test cases using Selenium + Java
+
+✅ **Mobile App Testing** - Reduced testing time by 60% with Android Studio + Kotlin  
+
+✅ **API Testing Suite** - Achieved 100% API coverage using Postman + Newman
+
+✅ **CI/CD Pipeline** - Faster deployment cycles with Jenkins + Maven
 
 </div>
-
-### 🔧 My Testing Approach
-
-```java
-public class MyTestingApproach {
-    
-    @Test
-    public void qualityFirst() {
-        // 1. Understand requirements clearly
-        // 2. Design comprehensive test cases
-        // 3. Automate repetitive tasks
-        // 4. Generate meaningful reports
-        // 5. Continuously improve processes
-    }
-}
-```
 
 ## 🔗 Let's Connect!
 

@@ -99,18 +99,7 @@ A comprehensive test automation framework demonstrating:
 - ✅ Custom utility classes for common operations
 - ✅ Screenshot capture on test failures
 
-### 📱 Mobile Application Development
-**Tech Stack:** `Kotlin` `Android Studio` `MVVM Architecture` `Room Database`
 
-Modern Android application featuring:
-- 📱 Clean, intuitive user interface with Material Design
-- 💾 Local data persistence with Room Database
-- 🔄 Reactive programming with LiveData and ViewModels
-- 🎨 Custom UI components and animations
-- 🔒 Data security and input validation
-- 📊 Data visualization with charts and graphs
-- 🌐 API integration with Retrofit
-- 🧪 Unit and instrumentation testing
 
 ### 🌐 Web Application Testing
 **Tech Stack:** `JavaScript` `React` `Node.js` `Jest` `Cypress`
@@ -124,17 +113,7 @@ Full-stack web application with comprehensive testing:
 - 🔐 Authentication and authorization implementation
 - 🚀 Docker containerization for consistent deployment
 
-### 🔧 API Testing & Automation
-**Tech Stack:** `Postman` `Newman` `JavaScript` `JSON Schema Validation`
 
-Comprehensive API testing suite:
-- 🌐 REST API testing with comprehensive test coverage
-- 📋 Test data management and parameterization
-- 🔄 Automated test execution with Newman
-- 📊 Detailed test reporting and analytics
-- 🔍 Response validation and schema testing
-- 🚀 Performance and load testing integration
-- 📝 API documentation and test case management
 
 ## 🎯 Testing Philosophy & Methodology
 
@@ -225,20 +204,6 @@ public class TestingFramework {
 - **🚀 CI/CD Integration**: Automating testing in deployment pipelines
 - **📊 Test Reporting**: Generating clear test results and metrics
 
-### 🎯 Recent Achievements
-
-<div align="center">
-
-✅ **Web Test Automation** - Automated 80% of test cases using Selenium + Java
-
-✅ **Mobile App Testing** - Reduced testing time by 60% with Android Studio + Kotlin  
-
-✅ **API Testing Suite** - Achieved 100% API coverage using Postman + Newman
-
-✅ **CI/CD Pipeline** - Faster deployment cycles with Jenkins + Maven
-
-</div>
-
 ## 🔗 Let's Connect!
 
 <div align="center">
@@ -252,9 +217,7 @@ public class TestingFramework {
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+quality+software+together!;Always+open+to+collaborate+on+interesting+projects!" alt="Footer" />
-</div>
+
 
 <div align="center">
   

@@ -198,53 +198,61 @@ public class TestingFramework {
 
 </div>
 
+## 🎓 Professional Experience
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Test+Automation+Engineer;Quality+Assurance+Specialist;Software+Developer" alt="Professional Skills" />
+</div>
 
-### 🏆 Core Competencies
+### 🏆 Key Skills
 
 <div align="center">
 
-| **Test Automation Excellence** | **Quality Engineering** | **Development Expertise** |
+| **Test Automation** | **Development** | **Tools & Frameworks** |
 |:---:|:---:|:---:|
-| 🎯 **Test Strategy Design** | 📋 **Test Planning & Execution** | 💻 **Full-Stack Development** |
-| Advanced test automation frameworks | Comprehensive QA methodologies | Modern application development |
-| Cross-browser & cross-platform testing | Risk-based testing approaches | Clean code principles |
-| Performance & load testing | Agile & DevOps integration | Database design & optimization |
-| **🤖 CI/CD Integration** | **📊 Quality Metrics** | **🛠️ Tool Development** |
-| Jenkins pipeline automation | Test coverage analysis | Custom testing utilities |
-| Docker containerization | Defect lifecycle management | Performance monitoring tools |
-| Cloud testing solutions | Quality gates implementation | API development & testing |
+| 🤖 Selenium WebDriver | 📱 Android Development | 🛠️ TestNG & JUnit |
+| 🌐 API Testing | 💻 Web Development | 📊 Maven & Gradle |
+| 📋 Test Case Design | 🗄️ Database Testing | 🚀 Jenkins CI/CD |
+| 🔄 Regression Testing | 🎯 Performance Testing | 📈 Reporting Tools |
 
 </div>
 
-### 📚 Professional Development Journey
+### 📚 What I Do
+
+- **🧪 Test Automation**: Building reliable automated test suites
+- **🔍 Quality Assurance**: Ensuring software meets quality standards  
+- **💻 Software Development**: Creating applications with clean code
+- **🚀 CI/CD Integration**: Automating testing in deployment pipelines
+- **📊 Test Reporting**: Generating clear test results and metrics
+
+### 🎯 Recent Achievements
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🎓 Computer Science Foundation] --> B[💻 Software Development]
-    B --> C[🧪 Manual Testing Expertise]
-    C --> D[🤖 Test Automation Mastery]
-    D --> E[🚀 DevOps Integration]
-    E --> F[☁️ Cloud Testing Solutions]
-    F --> G[📈 Leadership & Mentoring]
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-    style F fill:#DDA0DD
-    style G fill:#98D8C8
-```
+| **Project** | **Technology** | **Impact** |
+|:---:|:---:|:---:|
+| **Web Test Automation** | Selenium + Java | Automated 80% of test cases |
+| **Mobile App Testing** | Android Studio + Kotlin | Reduced testing time by 60% |
+| **API Testing Suite** | Postman + Newman | 100% API coverage achieved |
+| **CI/CD Pipeline** | Jenkins + Maven | Faster deployment cycles |
 
 </div>
 
+### 🔧 My Testing Approach
 
-
-
-
+```java
+public class MyTestingApproach {
+    
+    @Test
+    public void qualityFirst() {
+        // 1. Understand requirements clearly
+        // 2. Design comprehensive test cases
+        // 3. Automate repetitive tasks
+        // 4. Generate meaningful reports
+        // 5. Continuously improve processes
+    }
+}
+```
 
 ## 🔗 Let's Connect!
 

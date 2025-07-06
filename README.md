@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/thash41/thash41/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🚀 About Me
@@ -198,17 +198,121 @@ public class TestingFramework {
 
 </div>
 
-## 📈 Contribution Graph
+## 🎓 Professional Certifications & Skills
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thash41&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=79C0FF&line=58A6FF&point=F1F1F1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Certified+Test+Automation+Professional;Agile+Testing+Specialist;Continuous+Integration+Expert;Quality+Engineering+Leader" alt="Professional Skills" />
 </div>
 
-## 🏅 Achievements & Stats
+### 🏆 Core Competencies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thash41&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+| **Test Automation Excellence** | **Quality Engineering** | **Development Expertise** |
+|:---:|:---:|:---:|
+| 🎯 **Test Strategy Design** | 📋 **Test Planning & Execution** | 💻 **Full-Stack Development** |
+| Advanced test automation frameworks | Comprehensive QA methodologies | Modern application development |
+| Cross-browser & cross-platform testing | Risk-based testing approaches | Clean code principles |
+| Performance & load testing | Agile & DevOps integration | Database design & optimization |
+| **🤖 CI/CD Integration** | **📊 Quality Metrics** | **🛠️ Tool Development** |
+| Jenkins pipeline automation | Test coverage analysis | Custom testing utilities |
+| Docker containerization | Defect lifecycle management | Performance monitoring tools |
+| Cloud testing solutions | Quality gates implementation | API development & testing |
+
 </div>
+
+### 📚 Professional Development Journey
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎓 Computer Science Foundation] --> B[💻 Software Development]
+    B --> C[🧪 Manual Testing Expertise]
+    C --> D[🤖 Test Automation Mastery]
+    D --> E[🚀 DevOps Integration]
+    E --> F[☁️ Cloud Testing Solutions]
+    F --> G[📈 Leadership & Mentoring]
+    
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FFEAA7
+    style F fill:#DDA0DD
+    style G fill:#98D8C8
+```
+
+</div>
+
+### 🌟 Professional Achievements
+
+<div align="center">
+
+| **🏅 Achievement** | **📊 Impact** | **⚡ Technology** |
+|:---:|:---:|:---:|
+| **Test Automation Framework** | 85% reduction in testing time | Selenium + TestNG + Maven |
+| **CI/CD Pipeline Implementation** | 90% faster deployment cycles | Jenkins + Docker + AWS |
+| **API Testing Suite** | 100% API coverage achieved | Postman + Newman + JavaScript |
+| **Mobile Testing Framework** | Cross-platform compatibility | Appium + Android Studio |
+| **Performance Testing** | 40% improvement in load times | JMeter + Grafana + AWS |
+| **Quality Metrics Dashboard** | Real-time quality insights | Custom reporting solutions |
+
+</div>
+
+## 🚀 Innovation & Best Practices
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Driving+Innovation+in+Quality+Engineering;Implementing+Cutting-Edge+Testing+Solutions;Building+Scalable+Automation+Frameworks;Mentoring+Next-Generation+QA+Engineers" alt="Innovation" />
+</div>
+
+### 🔬 Research & Development Focus
+
+<div align="center">
+
+| **🔍 Area** | **🎯 Focus** | **📈 Outcome** |
+|:---:|:---:|:---:|
+| **AI-Driven Testing** | Machine learning for test optimization | Intelligent test case generation |
+| **Shift-Left Testing** | Early defect detection strategies | 60% reduction in production bugs |
+| **Cloud-Native Testing** | Scalable testing architectures | Cost-effective testing solutions |
+| **API-First Testing** | Comprehensive API validation | Robust backend quality assurance |
+| **Visual Testing** | UI/UX consistency validation | Enhanced user experience quality |
+
+</div>
+
+### 🎯 Testing Methodologies Expertise
+
+```java
+public class TestingMethodologies {
+    
+    // 🔄 Agile Testing Practices
+    @TestMethodology("Agile")
+    public void agileTestingApproach() {
+        // Sprint planning and backlog grooming
+        // Continuous testing and feedback loops
+        // Test-driven development (TDD)
+        // Behavior-driven development (BDD)
+    }
+    
+    // 🚀 DevOps Integration
+    @TestMethodology("DevOps")
+    public void devOpsIntegration() {
+        // Continuous integration/continuous deployment
+        // Infrastructure as code testing
+        // Automated quality gates
+        // Monitoring and alerting
+    }
+    
+    // 🎯 Risk-Based Testing
+    @TestMethodology("RiskBased")
+    public void riskBasedTesting() {
+        // Priority-based test execution
+        // Business impact analysis
+        // Resource optimization
+        // Quality risk assessment
+    }
+}
+```
 
 ## 🔗 Let's Connect!
 

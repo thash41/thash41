@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Jayani Thashmila!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Test+Automation+Engineer;Quality+Assurance+Specialist;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
